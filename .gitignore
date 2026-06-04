@@ -1,0 +1,4 @@
+Plaintext
+# 忽略 Hugo 编译生成的静态网页目录
+public/
+resources/
