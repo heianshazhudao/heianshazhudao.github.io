@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://heianshazhudao.github.io/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = '黑暗杀猪刀的博客'
 theme = 'PaperMod'
 
 
